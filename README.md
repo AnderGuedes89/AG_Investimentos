@@ -2,5 +2,5 @@
 
 Para executar
 
-javac MyFundoImobiliario.java
-java MyFundoImobiliario
+* javac MyFundoImobiliario.java
+* java MyFundoImobiliario
